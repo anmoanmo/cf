@@ -1,2 +1,4 @@
 ﻿  Target Practice.cpp
+D:\acm\cf\cf\myself\myself\Target Practice.cpp(39,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“double *”
+D:\acm\cf\cf\myself\myself\Target Practice.cpp(39,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“double *”
   myself.vcxproj -> D:\acm\cf\cf\myself\x64\Debug\myself.exe
