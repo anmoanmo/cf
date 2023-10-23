@@ -1,4 +1,4 @@
-﻿  C.cpp
-D:\acm\cf\cf\比赛\Round_905\Round_905\C.cpp(86,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
-D:\acm\cf\cf\比赛\Round_905\Round_905\C.cpp(113,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+﻿  E.cpp
+  F.cpp
+  正在生成代码...
   Round_905.vcxproj -> D:\acm\cf\cf\比赛\Round_905\x64\Debug\Round_905.exe
